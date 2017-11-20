@@ -28,11 +28,11 @@
     <system:String x:Key="All">Tous</system:String>
     <system:String x:Key="Installed">Installé</system:String>
     <system:String x:Key="New">Nouveau</system:String>
-    <system:String x:Key="CreateProfileToolTip">Create Fix Profile</system:String>
+    <system:String x:Key="CreateProfileToolTip">Créer un profil corrigé</system:String>
     <system:String x:Key="Edit">Editer</system:String>
-    <system:String x:Key="EditProfileToolTip">Edit Fix Profile</system:String>
+    <system:String x:Key="EditProfileToolTip">Editer le profil corrigé</system:String>
     <system:String x:Key="Delete">Supprimer</system:String>
-    <system:String x:Key="DeleteProfileToolTip">Remove Fix Profile</system:String>
+    <system:String x:Key="DeleteProfileToolTip">Supprimer le profil corrigé</system:String>
     
     <!-- Installation Tab -->
     <system:String x:Key="NoGamesInstalled">Aucun jeu compatible installé.</system:String>
@@ -43,7 +43,7 @@
     <system:String x:Key="InstallFixFailed">Installation échouée. Vérifier le chemin d'installation</system:String>
     <system:String x:Key="InstallFixFailed02" xml:space="preserve">Erreur: Le Fix n'a pas pu être installé.&#x0d;&#x0d;Soyez sûr que 3D Fix Manager a été démarré avec les droits administrateurs puis rééssayez.</system:String>
     <system:String x:Key="InstallWrapperFailed" xml:space="preserve">Erreur: Le Wrapper n'a pas pu être installé.&#x0d;&#x0d;Soyez sûr que 3D Fix Manager a été démarré avec les droits administrateurs puis rééssayez.</system:String>
-    <system:String x:Key="FixWrapperOutdated">Ce fix inclus une ancienne version de 3dmigoto.</system:String>
+    <system:String x:Key="FixWrapperOutdated">Ce correctif inclus une ancienne version de 3dmigoto.</system:String>
     <system:String x:Key="DownloadFix">Télécharger le Fix 3D</system:String>
     <system:String x:Key="UninstallFix">Désinstaller le Fix 3D</system:String>
     <system:String x:Key="UninstallFixCompleted">Désinstallation complété</system:String>
